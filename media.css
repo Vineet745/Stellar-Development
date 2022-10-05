@@ -1,0 +1,302 @@
+@media(max-width:600px ) {
+
+    nav h1 {
+        color: white !important;
+
+    }
+nav>i{
+    font-size: 50rem;
+}
+    section {
+        display: flex;
+        flex-direction: column-reverse;
+
+    }
+
+    section>.left-container {
+        width: 100%;
+        height: 100vh;
+    }
+    section>.left-container >h1{
+        font-size: 3rem;
+        top: 5%;
+    }
+    .left-bottom{
+        bottom: 20% !important;
+        right: 5% !important;
+        width: 50vw !important;
+    }
+    .left-bottom >p{
+        font-size: 13px !important;
+    }
+    .left-bottom-child >span{
+        font-size: 20px !important;
+
+    }
+
+
+    section>.right-container {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #particles-js{
+        width: 60vw !important;
+        height: 30vh !important;
+    }
+    .container-2{
+        display: flex;
+        flex-direction: column;
+    }
+    .left-container-2{
+        width: 100% !important;
+    }
+    .rotate-1{
+        display: none;
+    }
+    .right-container-2{
+        width: 100% !important;
+    
+    }
+    .right-container-2-para{
+        width: 50vw!important;
+    }
+    .right-container-2-para >span{
+        font-size: 25px !important;
+    }
+    .right-container-2-para>p{
+        font-size: 12px !important;
+        
+    }
+    .container-3{
+      height: 100vh!important;
+      display: flex !important;
+      align-items: flex-start !important;
+      justify-content: flex-start !important;
+      padding-top: 5vh!important;
+      padding-left: 2vh!important;
+    }
+    .container-3-child >p{
+        font-size: 15px !important;
+        margin:3vw !important;
+
+
+    }
+    .container-3-child>h1{
+     margin-top: 5vh !important;
+     font-size: 10vw!important;
+    }
+    .container-4{
+        display: flex;
+        flex-direction: column;
+    }
+    .left-container-4{
+        width: 100% !important;
+        
+    }
+    .right-container-4{
+        width: 100% !important;
+        height: 100vh;
+    
+    }
+    .right-container-4 >h3{
+        font-size: 15vw ;
+    }
+    .rotate-2{
+        display: none;
+    }
+    .right-container-4>h3{
+        font-size: 4vh !important;
+        margin-bottom: 2vh;   
+    }
+    .right-container-4-child>h4{
+    font-size: 17px !important;
+    }
+    .right-container-4-child i{
+        font-size: 3vh !important;
+    }
+    .services{
+        display: flex !important;
+        flex-direction: column !important;
+        
+        height: 30vh !important;
+        margin-top: 30vh !important;
+    }
+    .one{
+        width: 80%!important;
+    }
+    .one i{
+        font-size: 2vh !important;
+    }
+    .one span{
+        font-size: 3vh !important;
+    }
+    .press{
+        top: 50% !important;
+    }
+    .top-right{
+        display: none !important;
+    }
+    .container-5-bottom>p{
+        font-size: 2.5vh!important;
+    }
+    .counting{
+        display: none !important;
+    }
+}
+
+@media (min-width: 601px)and (max-width: 1000px) {
+    nav h1 {
+        color: white !important;
+
+    }
+nav>i{
+    font-size: 50rem;
+}
+    section {
+        display: flex;
+        flex-direction: column-reverse;
+
+    }
+
+    section>.left-container {
+        width: 100%;
+        height: 100vh;
+    }
+    section>.left-container >h1{
+        font-size: 6rem;
+        top: 5%;
+    }
+    .left-bottom{
+        bottom: 20% !important;
+        right: 5% !important;
+        width: 50vw !important;
+    }
+    .left-bottom >p{
+        font-size: 4.2vw !important;
+        margin-bottom: 3vh;
+    }
+    .left-bottom-child >span{
+        font-size: 4vw !important;
+
+    }
+    #particles-js{
+        width: 60vw !important;
+        height: 30vh !important;
+    }
+
+    section>.right-container {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .container-2{
+        display: flex;
+        flex-direction: column;
+    }
+    .left-container-2{
+        width: 100% !important;
+    }
+    .rotate-1{
+        display: none;
+    }
+    .right-container-2{
+        width: 100% !important;
+    
+    }
+    .right-container-2>h3{
+        font-size: 6vw !important;
+    }
+    .right-container-2-para{
+        width: 50vw!important;
+    }
+    .right-container-2-para >span{
+        font-size: 5vw !important;
+    }
+    .right-container-2-para>p{
+        font-size: 2vh !important;
+        letter-spacing: 2px;
+        
+    }
+    .container-3{
+      height: 100vh!important;
+      display: flex !important;
+      align-items: flex-start !important;
+      justify-content: flex-start !important;
+      padding-top: 5vh!important;
+      padding-left: 2vh!important;
+    }
+    .container-3-child >p{
+        font-size: 3vh !important;
+        margin:3vw !important;
+
+
+    }
+    .container-3-child>h1{
+     margin-top: 3vh !important;
+     font-size: 10vw!important;
+    }
+    .container-4{
+        display: flex;
+        flex-direction: column;
+    }
+    .left-container-4{
+        width: 100% !important;
+        
+    }
+    .right-container-4{
+        width: 100% !important;
+        height: 100vh;
+    
+    }
+    .right-container-4 >h3{
+        font-size: 15vw ;
+    }
+    .rotate-2{
+        display: none;
+    }
+    .right-container-4>h3{
+        font-size: 4vh !important;
+        margin-bottom: 3vh !important;   
+    }
+    .right-container-4-child>h4{
+    font-size: 3vh !important;
+    
+    }
+    .right-container-4-child i{
+        font-size: 3vh !important;
+    }
+    .services{
+        display: flex !important;
+        flex-direction: column !important;
+        
+        height: 30vh !important;
+        margin-top: 30vh !important;
+    }
+    .one{
+        width: 80%!important;
+    }
+    .one i{
+        font-size: 2vh !important;
+    }
+    .one span{
+        font-size: 3vh !important;
+    }
+    .press{
+        top: 50% !important;
+    }
+    .top-right{
+        width: 30vw!important;
+    }
+    .container-5-bottom>p{
+        font-size: 2.5vh!important;
+    }
+    .counting{
+        display: none !important;
+    }
+}
+
