@@ -62,14 +62,7 @@ nav>i {
     transition: 1s all linear;
 }
 
-.right-container>img {
-    width: 60%;
-    height: 60%;
-    position: absolute;
-    top: 20%;
-    left: 15%;
-    border-radius: 50%;
-}
+
 
 .line {
     width: 30%;
@@ -88,6 +81,7 @@ section {
     height: 100vh;
     display: flex;
     /* border: 2px solid black; */
+    background-color:rgb(13,12,13);
 
 
 }
